@@ -52,6 +52,14 @@
       "/mnt/c/Users/mushm/OneDrive/Documents/cmu/67-272/lab4-choretracker-starter/app/models/chore.rb": {
         "lines": [
           1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/mnt/c/Users/mushm/OneDrive/Documents/cmu/67-272/lab4-choretracker-starter/app/models/task.rb": {
+        "lines": [
+          1,
           null
         ]
       },
@@ -336,16 +344,8 @@
         ],
         "branches": {
         }
-      },
-      "/mnt/c/Users/mushm/OneDrive/Documents/cmu/67-272/lab4-choretracker-starter/app/models/task.rb": {
-        "lines": [
-          0,
-          0
-        ],
-        "branches": {
-        }
       }
     },
-    "timestamp": 1738715197
+    "timestamp": 1738715511
   }
 }
